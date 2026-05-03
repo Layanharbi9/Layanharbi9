@@ -1,17 +1,17 @@
 
-<h1 align="center">👩🏻‍💻 Layan Alharbi</h1>
+<h1 align="left">👩🏻‍💻 Layan Alharbi</h1>
 
-<p align="center">
+<p align="left">
 Software Developer | AI Explorer | Problem Solver
 </p>
 
-<p align="center">
+<p align="left">
 ✨ Building smart solutions with simple ideas ✨
 </p>
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 Computer Science graduate passionate about building intelligent and practical systems.  
 I focus on full-stack development and AI-based projects that solve real-world problems.
 
@@ -36,9 +36,9 @@ I focus on full-stack development and AI-based projects that solve real-world pr
 ---
 
 ## 🚀 Featured Projects
-- 🔐 SecurePass – Password Strength Analyzer  
-- 🤖 Smile Detection System (Computer Vision)  
-- 📊 Data Analysis Dashboards  
+- SecurePass – Password Strength Analyzer  
+- Smile Detection System (Computer Vision)  
+- Data Analysis Dashboards  
 
 ---
 
@@ -55,11 +55,6 @@ I focus on full-stack development and AI-based projects that solve real-world pr
 ---
 
 ## 📬 Contact Me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin-link  
-- 🐙 GitHub: https://github.com/Layanharbi9  
+- Email: iilanxii19@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/layan-alharbi-b65a78363/ 
 
----
-
-## ⚡ Fun Fact
-I love turning ideas into real working systems 🚀
