@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👩🏻‍💻 Layan Alharbi  
 
-<!--
-**Layanharbi9/Layanharbi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI Explorer | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me  
+Computer Science graduate passionate about building intelligent and practical solutions.  
+I enjoy working on full-stack applications and AI projects that solve real-world problems and improve user experience.
+
+---
+
+## 💡 Core Skills  
+- 💻 Full-Stack Development (Frontend & Backend)  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Analysis & Visualization  
+- 📱 Mobile App Development  
+- 🔐 Cybersecurity Basics  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python • JavaScript • HTML • CSS • SQL  
+**Tools:** Git • GitHub • Power BI • Android Studio  
+**AI/ML:** TensorFlow • OpenCV (basic projects)  
+
+---
+
+## 🚀 Featured Projects  
+- 🔐 SecurePass – Password Strength Analyzer  
+- 🤖 Smile Detection System (Computer Vision Project)  
+- 📊 Data Analysis Dashboards  
+
+---
+
+## 📬 Contact Me  
+- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: your-linkedin-link  
+- 🐙 GitHub: https://github.com/Layanharbi9  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Layanharbi9&show_icons=true&theme=tokyonight)
+
+## 🔥 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Layanharbi9&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Motto  
+“Building smart solutions with simple ideas.”
